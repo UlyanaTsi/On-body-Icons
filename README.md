@@ -7,7 +7,7 @@ Unity project with the visualization of apps' placements.
 
 1. To install Unity Hub, please visit https://unity.com/download and download Hub version suitable for your device. 
 
-2. To find data, in Unity Project tab please open scene VKR. Scene contains folders 1-24, each folder represent a participant. Participant folder consists of folder 30, which is locations of 30 arranged apps, and folder with a second number - locations of desired number of apps. Some participants also wear jewelry, it is visualized as a small blue sphere.   
+2. To find data, in Unity Project tab please open Assets -> Scenes -> Icons Locations. Scene contains folders 1-24, each folder represent a participant. Participant folder consists of folder 30, which is locations of 30 arranged apps, and folder with a second number - locations of desired number of apps. Some participants also wear jewelry, it is visualized as a small blue sphere.   
 
 Folders with locations contains objects representing app icon. 
 Green flat sphere - big app icon. 
